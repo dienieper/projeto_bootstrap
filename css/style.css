@@ -1,0 +1,36 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #323131;
+}
+
+.quem-somos {
+  background-color: #585555;
+  color: white;
+  font-weight: bold;
+}
+
+.margin {
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+.parceiros {
+  background-color: #7c7979;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.links {
+  text-decoration: none;
+  color: white;
+}
+
+.ultimaImagem {
+  padding-bottom: 20px;
+}
